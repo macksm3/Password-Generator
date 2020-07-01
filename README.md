@@ -10,6 +10,12 @@ Then the return string and for loop were added. at this point I am generating fi
 
 Added a prompt to get the password length.
 
+Commit working code
+
+add if statement to qalify length entry.
+add confirm dialogs to select character options
+
+commit working code
 
 
 
